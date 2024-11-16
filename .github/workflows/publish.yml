@@ -1,0 +1,27 @@
+name: Publish EXE to GitHub Packages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  upload:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Compress EXE
+      run: Compress-Archive -Path path\to\your_file.exe -DestinationPath app.zip
+
+    - name: Upload to GitHub Packages
+      uses: actions/upload-artifact@v3
+      with:
+        name: my-app
+        path: app.zip
+
+
+        git config user.name "nova360-marketing"
+git config user.email "nouractu.com@gmail.com"
