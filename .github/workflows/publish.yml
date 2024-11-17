@@ -1,27 +1,42 @@
-name: Publish EXE to GitHub Packages
+name: Publish Release
 
 on:
   push:
-    branches:
-      - main
+    tags:
+      - 'v*'
 
 jobs:
-  upload:
+  release:
     runs-on: windows-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Compress EXE
-      run: Compress-Archive -Path path\to\your_file.exe -DestinationPath app.zip
+      - name: Set up Git LFS
+        run: |
+          git lfs install
+          git lfs pull
 
-    - name: Upload to GitHub Packages
-      uses: actions/upload-artifact@v3
-      with:
-        name: my-app
-        path: app.zip
+      - name: List files (Debug)
+        run: dir /s
 
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
+        with:
+          tag_name: ${{ github.ref_name }}
+          release_name: ${{ github.ref_name }}
+          body: "Release of version ${{ github.ref_name }}"
+          draft: false
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-        git config user.name "nova360-ai"
-git config user.email "turk.novatech@gmail.com"
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          release_id: ${{ steps.create_release.outputs.id }}
+          asset_path: ./Nova360.exe
+          asset_name: Nova360.exe
+          asset_content_type: application/octet-stream

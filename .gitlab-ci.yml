@@ -1,0 +1,13 @@
+stages:
+  - build
+  - release
+
+before_script:
+  - git lfs install
+  - git lfs pull
+
+release:
+  stage: release
+  script:
+    - git lfs pull
+    - # Ajouter votre commande de déploiement ici

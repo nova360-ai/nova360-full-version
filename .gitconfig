@@ -1,0 +1,2 @@
+[alias]
+  push-all = "!git push origin master && git push gitlab master && git push bitbucket master"
