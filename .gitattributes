@@ -7,3 +7,4 @@ fichier filter=lfs diff=lfs merge=lfs -text
 suivi filter=lfs diff=lfs merge=lfs -text
 par filter=lfs diff=lfs merge=lfs -text
 LFS filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
