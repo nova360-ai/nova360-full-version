@@ -72,7 +72,7 @@ We believe in the power of collaboration!
 ## **Screenshots**  
 
 🌟 Preview the user-friendly Nova360 AI interface:  
-  [![Nova360 AI Video](https://africanovatech.com/wp-content/uploads/2024/11/Screenshot-2024-11-17-171218.png)](https://www.youtube.com/watch?v=your-video-id)
+  [![Nova360 AI Video](https://africanovatech.com/wp-content/uploads/2024/11/Screenshot-2024-11-17-171218.png)](https://www.youtube.com/watch?v=hJKkXZlyPzY)
 
 ---
 
