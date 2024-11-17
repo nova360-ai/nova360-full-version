@@ -1,4 +1,4 @@
-# **Nova360 AI**  
+# **Nova360 AI - Marketing Automation Platform**  
 **Simplify Your Marketing Strategies with Intelligent Automation**  
 
 Nova360 AI is a powerful all-in-one software designed to automate your social media marketing campaigns effortlessly. With an intuitive interface and advanced features, Nova360 AI saves you time and helps you achieve maximum results.  
