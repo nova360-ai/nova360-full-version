@@ -72,7 +72,7 @@ We believe in the power of collaboration!
 ## **Screenshots**  
 
 🌟 Preview the user-friendly Nova360 AI interface:  
-![Nova360 AI Screenshot](#)  
+  [![Nova360 AI Video](assets/video-thumbnail.png)](https://www.youtube.com/watch?v=your-video-id)
 
 ---
 
