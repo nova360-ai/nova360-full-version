@@ -69,7 +69,7 @@ Want access to the complete suite of features and a **valid one-year license**?
 ## **Support & Assistance**  
 
 - **Documentation**: Comprehensive guides included in the application.  
-- **Technical Support**: Reach us at [support@nova360.ai](mailto:support@nova360.ai).  
+- **Technical Support**: Reach us at [support@nova360.ai](mailto:info@turknovatech.com).  
 
 ---  
 
@@ -93,9 +93,9 @@ We believe in the power of collaboration!
 
 ## **Connect With Us**  
 
-- **Website**: [nova360.ai](https://nova360.ai)  
-- **Support Email**: [support@nova360.ai](mailto:support@nova360.ai)  
-- **Follow Us**: [Twitter](#) | [LinkedIn](#) | [YouTube](#)  
+- **Website**: [nova360.ai](https://nova360.turknovatech.com/admin)  
+- **Support Email**: [support@nova360.ai](mailto:info@turknovatech.com)  
+- **Follow Us**: [Twitter](#) | [LinkedIn](https://tr.linkedin.com/company/t-rk-novatech) | [YouTube](https://www.youtube.com/channel/UCQSfDIUhFpXJSVTTzCj15PA)  
 
 ---  
 
@@ -154,7 +154,7 @@ The FAQ section is essential to preemptively address any potential concerns or q
    *To access all features, simply click the "Upgrade" button on the main dashboard. A variety of pricing plans are available to fit your needs.*
 
 7. **What if I need help with the software?**  
-   *You can contact our support team via email at support@nova360.ai, or you can check our online guides and documentation available in the app.*
+   *You can contact our support team via email at info@turknovatech.com, or you can check our online guides and documentation available in the app.*
 
 ### **Clear Benefits vs. Features Comparison**
 
