@@ -136,7 +136,7 @@ git clone https://github.com/nova360-ai/nova360-full-version.git
 ---
 
 ### 3. Set Up Git LFS
-If the repository uses **Git LFS**, initialize it in your local environment:
+The repository uses **Git LFS**, initialize it in your local environment:
 ```bash
 git lfs install
 ```
