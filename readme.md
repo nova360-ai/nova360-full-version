@@ -95,23 +95,6 @@ Request a license directly via the app or [here](#).
 ---
 
 
-**Comparison Table Example:**
-
-| **Benefit** | **Feature** |
-| ----------- | ---------- |
-| **Save Time** | Automate scheduling and posting on Facebook, Instagram, WhatsApp, LinkedIn, and YouTube. |
-| **Increase Reach** | Built-in multilingual support to engage audiences in multiple regions. |
-| **Boost Engagement** | AI-driven content generation for posts that resonate with your audience. |
-| **Gain Insights** | Real-time analytics and performance tracking to optimize your social media strategy. |
-| **Seamless Integration** | Centralized platform to manage all your social media channels from one place. |
-
-By framing **Nova360 AI**’s capabilities through the lens of benefits, your visitors will be able to quickly see how it can improve their business. This approach appeals to users’ desire for practical solutions and results.
-
----
-
-
-
-
 ## **How to Clone the Repository**
 
 ### 1. Prerequisites
