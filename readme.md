@@ -5,6 +5,15 @@ Nova360 AI is a powerful all-in-one software designed to automate your social me
 
 ---  
 
+## **Watch Nova360 AI in Action**  
+
+🌟 **Preview the User-Friendly Nova360 AI Interface**  
+
+[![Nova360 AI Video](https://africanovatech.com/wp-content/uploads/2024/11/Screenshot-2024-11-17-171218.png)](https://www.youtube.com/watch?v=hJKkXZlyPzY)  
+*Click the image above to watch the full demo video without leaving the page.*  
+
+---  
+
 ## **Why Choose Nova360 AI?**  
 
 - **Boost Productivity**: Automate repetitive tasks and focus on high-value activities.  
@@ -47,16 +56,6 @@ Nova360 AI is a powerful all-in-one software designed to automate your social me
 - The `.exe` file includes everything you need—no additional setup required.  
 - Compatible with Windows 10 and above.  
 
----  
-
-## **Watch Nova360 AI in Action**  
-
-🌟 **Preview the User-Friendly Nova360 AI Interface**  
-
-[![Nova360 AI Video](https://africanovatech.com/wp-content/uploads/2024/11/Screenshot-2024-11-17-171218.png)](https://www.youtube.com/watch?v=hJKkXZlyPzY)  
-*Click the image above to watch the full demo video without leaving the page.*  
-
----  
 
 ## **Get the Full Version**  
 
