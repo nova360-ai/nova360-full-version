@@ -112,29 +112,7 @@ This project is licensed under the MIT License. See the `LICENSE` [License File]
 
 ---  
 
-### **Promotional Additions**:
 
-- **Video Playback Without Leaving the Page**: The embedded video player will allow users to watch the Nova360 AI demo directly on the page without navigating away. This increases engagement and ease of access.
-  
-- **Clear Call to Action**: I’ve added a section where users can directly request the full version of the software, along with a one-year license.
-  
-- **Detailed Installation Instructions**: Clear and concise steps on how to install the software, ensuring no confusion for the user.
-
-Here’s an expanded and refined version of the suggestions you selected for your **Nova360 AI** promotional page:
-
----
-
-### **Incorporate Animations or Motion Graphics**
-
-**Animation for Key Features:**
-Using subtle animations can greatly enhance engagement. For example, you could animate the transition between features on the page to showcase how **Nova360 AI** automates various tasks. Small animations like moving arrows, loading indicators, or hover effects that visually highlight the benefits of the platform will not only capture attention but also illustrate how the platform works.
-
-**Motion Graphics Example for Social Media Automation:**
-- A moving progress bar showing how quickly the AI schedules posts or sends messages.
-- Social media icons (Facebook, Instagram, LinkedIn) popping up as automated actions are demonstrated, reinforcing the platform's capabilities.
-
-**Call-to-Action Animation:**
-Consider animating the "Download Now" button or “Try Demo” link with a smooth pulse effect to subtly encourage users to click.
 
 ### **Live Chat Support or Chatbot**
 
@@ -151,7 +129,7 @@ Live chat or chatbots are indispensable in modern websites for enhancing user in
 - Option to schedule a live demo or get a consultation if needed.
 - Integration with your CRM so that leads can be tracked and followed up with after interactions.
 
-### ** FAQ Section**
+### **FAQ Section**
 
 **Why It’s Important:**
 The FAQ section is essential to preemptively address any potential concerns or questions your visitors may have. This section will not only provide clarity but also reduce friction in the decision-making process.
@@ -179,7 +157,7 @@ The FAQ section is essential to preemptively address any potential concerns or q
 7. **What if I need help with the software?**  
    *You can contact our support team via email at support@nova360.ai, or you can check our online guides and documentation available in the app.*
 
-### ** Clear Benefits vs. Features Comparison**
+### **Clear Benefits vs. Features Comparison**
 
 **Why It Works:**
 Showing a clear benefits vs. features comparison will help potential customers immediately understand the value of the solution in a way that resonates with their needs. Benefits explain the "why" behind the features, making the product more appealing.
